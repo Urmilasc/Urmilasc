@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Urmila Choudhary
 - 👀 I’m interested in programming , problem - solving
 - 🌱 I’m currently learning web development and also practicing DSA
-- 💞️ I’m looking to collaborate on Open - source community
+- 💞️ I’m looking to collaborate in Open - source community
 - 📫 Follow me on linkedin - https://www.linkedin.com/in/urmilachoudhary/
                    Twitter - https://twitter.com/UrmilaC13
 
